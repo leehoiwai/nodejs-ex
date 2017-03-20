@@ -1,5 +1,5 @@
 {
-  "name": "ads-nodejs",
+  "name": "nodejs-ex",
   "version": "0.0.1",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.adorsys.de/tja/nodejs.git"
+    "url": "https://github.com/j1cken/nodejs-ex.git"
   },
   "author": "Torben",
   "license": "Apache"
